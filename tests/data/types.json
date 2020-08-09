@@ -1,0 +1,24 @@
+{
+  "type_valid": {
+    "title": "Example",
+    "color": "Text"
+  },
+    "type_with_long_title": {
+    "title": "Title Example Title Example Title Example Titlerrrr",
+    "color" : "Text"
+  },
+  "type_with_long_color": {
+    "title": "Text",
+    "color" : "Title Example Title Example Title Example Titlerrrr"
+  },
+  "type_with_empty_title": {
+    "color" : "Example"
+  },
+  "type_with_empty_color": {
+    "title": "Example"
+  },
+  "type_valid_update": {
+    "title": "Example update",
+    "color": "Text update"
+  }
+}

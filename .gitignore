@@ -1,0 +1,9 @@
+*.pyc
+__pycache__/
+static/
+media/
+.idea/
+venv/
+.env
+.DS_Store
+.pytest_cache
